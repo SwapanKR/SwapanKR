@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Swapan
 
 [![Qadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwapanKR&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/SwapanKR)
 
